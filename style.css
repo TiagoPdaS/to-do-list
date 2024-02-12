@@ -147,10 +147,18 @@ button,
  
 }
 .check-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 10px;
+  margin: 10px;
 }
 .trash-button{
-  padding:  8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:  15px;
+  margin: 15px;
 }
 }
 

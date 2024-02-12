@@ -128,7 +128,8 @@ button,
     text-align: center;
 }
 .inputcol{
-  display: flex;
+  display: block;
+  flex-direction: column;
   align-items: center;
  justify-content: center;
  grid-template-columns: 60% 10%;

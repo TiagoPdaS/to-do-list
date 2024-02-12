@@ -128,10 +128,9 @@ button,
     text-align: center;
 }
 .inputcol{
-  display: grid;
- 
-  
-  justify-content: center;
+  display: flex;
+  align-items: center;
+ justify-content: center;
 }
 }
 

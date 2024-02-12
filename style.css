@@ -129,8 +129,8 @@ button,
 }
 .inputcol{
   display: grid;
-  column-gap: 3px;
-  grid-template-columns: 55% 15%;
+  column-gap: 5px;
+  grid-template-columns: 100% 20%;
   justify-content: center;
 }
 }

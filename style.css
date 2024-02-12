@@ -129,7 +129,7 @@ button,
 }
 .inputcol{
   display: grid;
-  column-gap: 5px;
+ 
   
   justify-content: center;
 }

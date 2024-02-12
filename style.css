@@ -138,7 +138,6 @@ button,
   display: flex;
   align-items: center;
   justify-content: center;
-  border-color: pink;
   padding: 50%;
 }
 }

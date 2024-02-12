@@ -130,11 +130,14 @@ button,
 .inputcol{
   display: block;
   flex-direction: column;
-   
-  align-items: center;
+   align-items: center;
  justify-content: space-between;
  grid-template-columns: 60% 10%;
 }
-
+.buttoninput{
+  align-items: center;
+  justify-content: center;
+  border-color: pink;
+}
 }
 

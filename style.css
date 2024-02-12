@@ -13,6 +13,10 @@ body {
 
 /* container title */
 .container-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   font-size: 25px;
   text-align: center;
   margin: 0 0 30px 0;
@@ -122,24 +126,4 @@ button,
   cursor: pointer;
 }
 
-@media (max-width: 600px) {
-  .container-title {
-    font-size: 20px;
-    text-align: center;
-}
-.inputcol{
-  display: block;
-  flex-direction: column;
-   align-items: center;
- justify-content: space-between;
- grid-template-columns: 60% 10%;
-}
-.buttoninput{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 6%;
-  gap: 30%;
-}
-}
 

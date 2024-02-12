@@ -130,15 +130,11 @@ button,
 .inputcol{
   display: block;
   flex-direction: column;
-  flex-flow: nowrap;
+   
   align-items: center;
  justify-content: space-between;
  grid-template-columns: 60% 10%;
 }
-.buttoninput{
-  display: block;
-  align-items: center;
-  justify-content: center;
-}
+
 }
 

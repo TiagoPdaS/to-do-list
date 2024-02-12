@@ -132,11 +132,11 @@ button,
   flex-direction: column;
   flex-flow: nowrap;
   align-items: center;
- justify-content: center;
+ justify-content: space-between;
  grid-template-columns: 60% 10%;
 }
 .buttoninput{
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
 }

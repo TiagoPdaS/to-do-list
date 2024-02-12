@@ -146,5 +146,11 @@ button,
   margin-top: 10px;
  
 }
+.check-button{
+  padding: 10px;
+}
+.trash-button{
+  padding:  8px;
+}
 }
 

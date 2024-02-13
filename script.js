@@ -34,7 +34,7 @@ function addTodo() {
 }
 
 // checking and delete todoList 
-function okdel(e) {
+function deleteList(e) {
     const item = e.target
 
     // check
@@ -51,4 +51,4 @@ function okdel(e) {
 }
 
 buttontdl.addEventListener('click', clickButton)
-listtdl.addEventListener('click', okdel)
+listtdl.addEventListener('click', deleteList)
